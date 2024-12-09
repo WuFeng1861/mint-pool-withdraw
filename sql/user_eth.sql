@@ -1,0 +1,2 @@
+INSERT INTO `user_eth`(`id`, `amount`) VALUES (1, 0.04528049000000000000);
+INSERT INTO `user_eth`(`id`, `amount`) VALUES (6, 0.03450000000000000000);

@@ -1,0 +1,21 @@
+@import "mint";
+@import "../layout";
+
+.swap-container {
+  background-color: #121212 !important;
+  color: white;
+  font-family: 'Arial', sans-serif;
+}
+.swap {
+  background-color: #121212 !important;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  margin-top: -$wallet-header-height;
+}
+
+.glass-card {
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(144, 238, 144, 0.1);
+}
